@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive rating component solution
+# Frontend Mentor - Interactive rating component solution ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Interactive rating component coding challenge](/sreenshoot.png)
+![Design preview for the Interactive rating component coding challenge](/sreenshot.png)
 
 ### Links
 
